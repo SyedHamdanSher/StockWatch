@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Stock Watch</string>
+    <string name="menutitleadd">addtitle</string>
+    <string name="addS">Please enter a Stock symbol :</string>
+    <string name="addS1">Stock Selection</string>
+    <string name="pros">Opening Stock Data..</string>
+    <string name="addS2">Make a selection</string>
+    <string name="dup">Duplicate Stock</string>
+    <string name="no_I">No internet connection</string>
+    <string name="no_Im">Please check your connection</string>
+    <string name="wel">Welcome to Stock Watch!</string>
+    <string name="h1">Enter symbol/name of a company</string>
+    <string name="welm">"Please use the above + symbol to add stocks"</string>
+    <string name="welm1">"Press anywhere outside this box to come out of this box"</string>
+</resources>
